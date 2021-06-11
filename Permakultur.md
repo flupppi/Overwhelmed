@@ -42,14 +42,14 @@ Für ein Spiel müssen wir folgende Kriterien festlegen.
 
 
 Alle haben wir hier eigentlich.
-1. **Fidelity:** So wie ich das verstehe geht es hier um den Detailgrag oder die Art der Darstellung. Hier kann man von Globalen Ansichten bis hin in Details gehen. Für meine Vorstellung der Permakultur wäre aber am Sinnvollsten die Planung und Simulation des Aufbau von Systemen in der Größe von größeren Grundstücken bis hin zu Stadtteilen oder Landstrichen.
-1. **Objectives:** Ein Selbsterhaltendes Ökosystem, dass kaum Externe Energie braucht um sich selbst zu erhalten. Das man 10 Jahre alleinlassen kann, ohne das groß etwas kaputt geht.
+1. **Fidelity:** So wie ich das verstehe geht es hier um den Detailgrad oder die Art der Darstellung. Hier kann man von einer globalen Ansicht bis hin in Details gehen. Für meine Vorstellung der Permakultur wäre aber am Sinnvollsten, die Planung und Simulation des Aufbau von Systemen in der Größe von größeren Grundstücken bis hin zu Stadtteilen oder Landstrichen darzustellen.
+1. **Objectives:** Ein Selbsterhaltendes Ökosystem, dass kaum Externe Energie braucht und Trotzdem produktiv für den Menschen nutzbar ist. Das man 10 Jahre alleinlassen kann, ohne das groß etwas kaputt geht.
    Die kleineren Ziele sind der Aufbau von Untersystemen, die für das Gesamtsystem nötig sind. 
-2. **Constraints:** Das Permakultur System wird vorallem durch das verfügbare Wasser beschränkt. Außerdem durch die Energie der Sonne. Weiterhin gibt es noch viele externe Energien, sowie Geld das einen beschränkung mit sich bringt.
-3. **Success Criteria:** Produziert man genug essen für die Bewohner? Baut man mehr Hummosreichen Boden auf als durch die Bewirtschaftung verbraucht wird? Kann sich das System wenn man 10 Jahre nach vorne Spult selbst erhalten?
-4. **Reward:** Das gebaute System funktioniert, man produziert genug Nahrung für seine Einwohner, man Produziert seine eigene Energie, man bekommt anerkennung und die Einwohner sind zufrieden, man produziert mehr Hummosreichen Boden als man verbraucht. Die Umgebung wird diverser Artenreicher und schöner (optische Belohnung)
+2. **Constraints:** Das Permakultur System wird vorallem durch das verfügbare Wasser beschränkt. Außerdem durch die Energie der Sonne. Weiterhin gibt es noch viele externe Energien, sowie Geld das einen Beschränkung mit sich bringt.
+3. **Success Criteria:** Produziert man genug essen für die Bewohner? Baut man mehr Hummosreichen Boden auf als durch die Bewirtschaftung verbraucht wird? Kann sich das System, wenn man 10 Jahre nach vorne Spult selbst erhalten?
+4. **Reward:** Das gebaute System funktioniert, man produziert genug Nahrung für seine Einwohner, man Produziert seine eigene Energie, man bekommt anerkennung und die Einwohner sind zufrieden, man produziert mehr Hummosreichen Boden als man verbraucht. Die Umgebung wird diverser Artenreicher und schöner (optische Belohnung). Oder auch eine soziale Belohnung, indem man es ermöglicht screenshots oder GIFs zu teilen. (ähnlich Polybridge)
 5. **Play:** Grundsätzlich ist der Aufbau von etwas funktionierenem immer motivierend, hier müssen aber Game Designer sagen wie das richtig gestaltet werden kann.
-6. **Competition (sometimes)** Auch das finde ich möglich, zum Beispiel indem man Szenarios hat und leute auf einem Leaderboard versuchen das beste Permakultursystem unter den gegebenen Umständen umzusetzen.
+6. **Competition (sometimes)** Auch das ist hier möglich, zum Beispiel indem man Szenarios hat und leute auf einem Leaderboard versuchen das beste Permakultursystem unter den gegebenen Umständen umzusetzen.
 
 
 
@@ -70,9 +70,9 @@ Welche Probleme könnten in der Realität damit gelöst werden?
 
 Das am anfang angesprochene Problem, dass ich damit lösen will, ist. 
 1. **Die Geldfrage**, viele Projekte scheitern daran, dass es nicht genug Förderung gibt, da das lanfristige Projekte sind, die erstmal keinen Gewinn abwerfen. Man könnte so schonmal Planen und anhand der simulierten Ergebnisse besser nach für Funding werben.
-2.  **Die Vorstellungsfrage**, Permakultur ist ein eigentlich recht einfaches System, das aber so viele Komplexitätsebenen hat, man es sich nicht wirklich gut vorstellen kann wie etwas in der Praxis aussieht.
+2.  **Die Vorstellungsfrage**, Permakultur ist ein eigentlich recht einfaches System, das aber so viele Komplexitätsebenen hat, sodass man sich nicht wirklich gut vorstellen kann wie etwas in der Praxis aussieht.
 Wenn man zum Beispiel in eine Fläche Maßnahme zur Speicherung von Wasser einbinden will, kann man einen Plan erstellen und sich berechnen wie viel Wasser damit potentiell gefangen werden kann. 
-Ein System, dass dich deine Planung implementieren Lässt und einfach mit simulierten Werten testet, lässt einen sehr gut auf Fehler aufmerksam werden und eignet sich gut um die eigene Idee gegenüber anderen zu Präsentieren und sein Verhalten zu erklären. 
+Ein System, dass dich deine Planung implementieren lässt und einfach mit realistischen Werten simuliet, lässt einen sehr gut auf Fehler aufmerksam werden und eignet sich gut um die eigene Idee gegenüber anderen zu Präsentieren und sein Verhalten zu erklären. 
 3. **Die Komplexitätsfrage**, die natur nachzubilden und dabei noch besser zu sein als sie, indem man das Ökosystem das man aufbaut noch für den Menschen produktiv macht, ist eine unglaublich kompexe Aufgabe.
 Es gibt unglaublich viele Methoden und Komplexitätsebenen für die verschiedensten Klimaregionen und Umgebungen. Diese Komplexität könnte man spielerisch vermitteln, sodass man eine natürliche Intuition dafür entwickelt, mit der man die meisten Probleme automatisch richtig bewältigen kann.
 
@@ -89,6 +89,12 @@ Ein wirklich inspirierendes Projekt ist "Greening the Desert", dort wurde mit Pe
 https://www.greeningthedesertproject.org/
 
 Ich gehe nächstes Semester auch warscheinlich nach Jordanien ins Auslandssemester. Hier ist zufällig auch das "Greening the Desert" Permakulturprojekt und ich plane aktuell auch hier einige Wochen zu verbringen und mir Permakultur in dieser Extremen Form genau anzusehen und in der Szene auch Kontakte zu knüpfen.
+
+---
+
+Die Technischen Faktoren in der Umsetzung sind natürlich nicht zu unterschätzen. Man müsste ja zumindest rudimentär versuchen ein Ökosystem zu modellieren und dessen Reaktion auf Maßnahmen realistisch abzubilden, sodass der Lerneffekt überhaupt relevant wird. Hier muss man sicherlich nicht auf den Detailgrad von Klimasimulationen gehen, aber dafür muss man noch andere Faktoren, wie das Verhalten von unterschiedlichen Pflanzenarten untereinander, oder in verschiedenen Klimazonen abbilden.
+
+Das wird dadurch auch eine Designfrage, die man beantworten muss, damit die technische Umsetzung auch machbar wird.
 
 ----
 Weitere Gamedesign Faktoren:
