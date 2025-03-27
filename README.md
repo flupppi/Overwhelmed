@@ -20,3 +20,27 @@ Thinking of raising a business under open source licenses is a whole other thing
 All the energy you put into the Environment and Open Source software is worth nothing if you or someone in your closer environemt gets unhappy from what you are doing. Being able to care for your close surroundings is a central element. That also means having a system that intrinsically surrounds you with these people. Further your job has to leave you width enough time to get into caring for the people. Having a functioning social structure then opens the possibility of you succeeding at the first two goals. Not having it prevents the first two.
 
 The whole thing is called OVERWHELMED because this task is huge. Life is difficult as it is but wanting to achieve these goals is even a step further.
+# Permaculture App – Working Title
+
+This is a long-term, modular, open-source project to create interactive tools for observation, simulation, and design based on permaculture principles. It combines spatial awareness, environmental sensing, and user-guided planning to support real-world decision making—starting in small, indoor spaces and growing outward.
+
+## Why This Exists
+
+Years ago, I had a vision of software that helps us care for the world by learning from it. I’ve studied, worked, wandered, and come back. This repo is my way of reconnecting with that vision and moving forward—one commit at a time.
+
+## Status
+
+This is the beginning. Ideas are being collected and sorted. Some parts may already exist in the world. This is still worth building.
+
+## Structure
+
+- `/docs/` – Concept sketches, old notes, scanned posters, research
+- `/ideas/` – Modular threads for features, thoughts, and experiments
+- `/experiments/` – Game jam projects, isolated tests
+- `/app/` – Future home of real code
+- `/assets/` – Screenshots, diagrams, visuals
+
+## License
+
+GPL 4.0
+
